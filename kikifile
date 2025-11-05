@@ -1,0 +1,10 @@
+ This is my first Git practice file.
+2. Git is a version control system.
+3. It helps track changes in source code.
+4. I can use 'git init' to create a new repository.
+5. 'git add .' moves changes to the staging area.
+6. 'git commit -m "message"' saves the changes locally.
+7. 'git push' sends my commits to GitHub.
+8. 'git pull' brings the latest changes from the remote.
+9. Every developer uses Git in real projects.
+10. Practice makes you confident with Git commands.
